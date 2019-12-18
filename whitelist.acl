@@ -1,0 +1,8 @@
+# Iran's whitelist rules for shadowsocks-libev $
+[bypass_all]
+(^|\.)irib\.ir$
+(^|\.)cafebazaar\.ir$
+(^|\.)divar\.ir$
+(^|\.)sheypoor\.com$
+(^|\.)sheypoor\.ir$
+(^|\.)telewebion\.com$

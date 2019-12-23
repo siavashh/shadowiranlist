@@ -1,5 +1,7 @@
 # Iran's whitelist rules for shadowsocks-libev $
 [bypass_all]
+
+[proxy_list]
 (^|\.)irib\.ir$
 (^|\.)cafebazaar\.ir$
 (^|\.)divar\.ir$
